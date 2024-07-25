@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **Clean Fuel**
 
-- 🌱 I’m currently learning **everything I see**
+- 🌱 I’m currently learning **everything!**
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **md.ragib.supanta@gmail.com**
 
-- ⚡ Fun fact **beside programming I love bike riding, gaming, travelling and of course food!**
+- ⚡ Fun fact **Besides programming I love bike riding, gaming, traveling, and of course food!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
