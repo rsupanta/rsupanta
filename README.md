@@ -58,18 +58,13 @@ How I took peak DB connections from 3,000 at boot to zero, using lazy loading, p
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### GitHub stats
-
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsupanta&" alt="rsupanta" /></p>
-</div>
-
 ---
-
+ 
 <div align="center">
-
-Outside of work: bike riding, gaming, traveling, and food — happy to talk about any of it.
-
+Outside of work: bike riding, gaming, traveling, and food. Happy to talk about any of it.
+ 
 📫 **md.ragib.supanta@gmail.com**
+ 
+![Profile views](https://komarev.com/ghpvc/?username=rsupanta&label=Profile%20views&color=0e75b6&style=flat)
 
 </div>
