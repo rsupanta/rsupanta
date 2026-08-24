@@ -2,7 +2,7 @@
 
 # Ragib Hasan
 
-### Senior Software Engineer & Technical Architect
+### Engineering Lead & Technical Architect
 
 Multi-tenant SaaS · Microservices · Distributed Systems · Dhaka, Bangladesh (open to remote)
 
@@ -18,25 +18,28 @@ Multi-tenant SaaS · Microservices · Distributed Systems · Dhaka, Bangladesh (
 
 I lead engineering for **[ZOYEQ](https://www.zoyeq.com)**, a multi-tenant e-commerce SaaS platform at Qzency that bundles storefronts, POS, inventory, and AI tooling for 500+ active businesses.
 
-- Solo-architected the backend — 6 microservices on Node.js, Express, MongoDB, Redis, and RabbitMQ, moving 1M+ events a day
+- Solo-architected the backend: 6 microservices on Node.js, Express, MongoDB, Redis, and RabbitMQ, moving 1M+ events a day
 - Designed the multi-tenancy model from scratch, keeping tenant data strictly isolated while staying easy to scale
 - Cut API response times from ~800ms to under 150ms with a Redis caching layer
-- Own the whole stack end to end — architecture, DevOps, CI/CD, and the product roadmap
+- Own the whole stack end to end: architecture, DevOps, CI/CD, and the product roadmap
 
 ### Where I've been
 
-- **DX Group** — architected the ERP backbone for Xiaomi's national distributor in Bangladesh
-- **Method Melody** — built and optimized an LMS serving 10,000+ students, cutting server costs by 35%
-- 5+ years shipping production systems across e-commerce, ERP, and ed-tech, almost always as the person who owns a project from first commit to production
+- **DX Group**: architected the ERP backbone for Xiaomi's national distributor in Bangladesh
+- **Method Melody**: built and optimized an LMS serving 10,000+ students, cutting server costs by 35%
+- 6+ years shipping production systems across e-commerce, ERP, and ed-tech, almost always as the person who owns a project from first commit to production
 
 ### Recent writing
 
-📝 **[Architecting for N-Tenants: Solving Database Connection Exhaustion in Node.js](https://rsupanta.com/blog/n-tenant-architecture)**
-How I took peak DB connections from 3,000 at boot to zero, using lazy loading, promise caching, and LRU eviction.
+- 📝 [The Transactional Outbox Pattern: Making Event Publishing Atomic](https://rsupanta.com/blog/transactional-outbox-pattern)
+- 📝 [Event-Driven Microservices: Decoupling Services with RabbitMQ](https://rsupanta.com/blog/event-driven-microservices-rabbitmq)
+- 📝 [Architecting for N-Tenants: Database Connection Exhaustion](https://rsupanta.com/blog/n-tenant-architecture)
+
+Full list and TL;DRs → [rsupanta.com/blog](https://rsupanta.com/blog)
 
 ### Publication
 
-📄 **[Character and Mesh Optimization of Modern 3D Video Games](https://link.springer.com/chapter/10.1007/978-981-15-0694-9_60)** — Springer, Proceedings of ICDIS 2020
+📄 **[Character and Mesh Optimization of Modern 3D Video Games](https://link.springer.com/chapter/10.1007/978-981-15-0694-9_60)**, Springer, Proceedings of ICDIS 2020
 
 ---
 
@@ -50,6 +53,7 @@ How I took peak DB connections from 3,000 at boot to zero, using lazy loading, p
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -59,7 +63,7 @@ How I took peak DB connections from 3,000 at boot to zero, using lazy loading, p
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ---
- 
+
 <div align="center">
 Outside of work: bike riding, gaming, traveling, and food. Happy to talk about any of it.
  
